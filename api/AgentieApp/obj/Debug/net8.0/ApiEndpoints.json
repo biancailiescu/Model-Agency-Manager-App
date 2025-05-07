@@ -1,0 +1,347 @@
+[
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "CreateContract",
+    "RelativePath": "api/Agentie/CreateContract",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contract",
+        "Type": "AgentieApp.Controllers.ContractModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "DeleteAccount",
+    "RelativePath": "api/Agentie/DeleteAccount",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mail",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "parola",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "DeleteContract",
+    "RelativePath": "api/Agentie/DeleteContract",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contractId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetAboveAverageModels",
+    "RelativePath": "api/Agentie/GetAboveAverageModels",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetClientFeedbackHistory",
+    "RelativePath": "api/Agentie/GetClientFeedbackHistory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetContractsWithFilters",
+    "RelativePath": "api/Agentie/GetContractsWithFilters",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sex",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "oras",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataSemnarii",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "minSum",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "maxSum",
+        "Type": "System.Nullable\u00601[[System.Decimal, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetModelEvents",
+    "RelativePath": "api/Agentie/GetModelEvents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nume",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prenume",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetModelReviews",
+    "RelativePath": "api/Agentie/GetModelReviews",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nume",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prenume",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetModelsByEarnings",
+    "RelativePath": "api/Agentie/GetModelsByEarnings",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sortOrder",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetModelsByFeedback",
+    "RelativePath": "api/Agentie/GetModelsByFeedback",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sortOrder",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetModelsInMultipleCities",
+    "RelativePath": "api/Agentie/GetModelsInMultipleCities",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetNumeModel",
+    "RelativePath": "api/Agentie/GetNumeModel",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetParolaClient",
+    "RelativePath": "api/Agentie/GetParolaClient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetSimilarModels",
+    "RelativePath": "api/Agentie/GetSimilarModels",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nume",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "prenume",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "GetUserClient",
+    "RelativePath": "api/Agentie/GetUserClient",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "ModifyContractSum",
+    "RelativePath": "api/Agentie/ModifyContractSum",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "contractId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "newSum",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "ModifyPassword",
+    "RelativePath": "api/Agentie/ModifyPassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AgentieApp.Controllers.ModifyPasswordModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "ModifyUsername",
+    "RelativePath": "api/Agentie/ModifyUsername",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "AgentieApp.Controllers.ModifyUsernameModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.AgentieController",
+    "Method": "Register",
+    "RelativePath": "api/Agentie/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userCredentials",
+        "Type": "AgentieApp.Controllers.UserCredentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "AgentieApp.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[AgentieApp.WeatherForecast, AgentieApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

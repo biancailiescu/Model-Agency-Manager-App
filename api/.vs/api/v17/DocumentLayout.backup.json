@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\AgentieController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgentieApp\\Controllers\\AgentieController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgentieApp\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgentieApp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\AgentieApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AgentieApp\\AgentieApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AgentieApp\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AgentieApp\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:56:20.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AgentieApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\appsettings.json",
+              "RelativeToolTip": "AgentieApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T11:27:30.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AgentieApp.csproj",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\AgentieApp.csproj",
+              "RelativeDocumentMoniker": "AgentieApp\\AgentieApp.csproj",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\AgentieApp.csproj",
+              "RelativeToolTip": "AgentieApp\\AgentieApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-14T11:24:11.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentieController.cs",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\AgentieController.cs",
+              "RelativeDocumentMoniker": "AgentieApp\\Controllers\\AgentieController.cs",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\AgentieController.cs",
+              "RelativeToolTip": "AgentieApp\\Controllers\\AgentieController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T11:23:56.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

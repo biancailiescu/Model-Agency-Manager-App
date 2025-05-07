@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F67745C-A142-4FD7-AC23-1566553C2BEB}|AgentieApp.csproj|c:\\users\\ilies\\onedrive\\desktop\\proiect\\api\\agentieapp\\controllers\\agentiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F67745C-A142-4FD7-AC23-1566553C2BEB}|AgentieApp.csproj|solutionrelative:controllers\\agentiecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F67745C-A142-4FD7-AC23-1566553C2BEB}|AgentieApp.csproj|c:\\users\\ilies\\onedrive\\desktop\\proiect\\api\\agentieapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7F67745C-A142-4FD7-AC23-1566553C2BEB}|AgentieApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F67745C-A142-4FD7-AC23-1566553C2BEB}|AgentieApp.csproj|c:\\users\\ilies\\onedrive\\desktop\\proiect\\api\\agentieapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F67745C-A142-4FD7-AC23-1566553C2BEB}|AgentieApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T16:54:43.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgentieController.cs",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\AgentieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AgentieController.cs",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Controllers\\AgentieController.cs",
+              "RelativeToolTip": "Controllers\\AgentieController.cs",
+              "ViewState": "AgIAAG0CAAAAAAAAAAAcwK0CAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:54:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ilies\\OneDrive\\Desktop\\proiect\\api\\AgentieApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T16:47:55.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
